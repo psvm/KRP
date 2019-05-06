@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KRP Monitoring</string>
+    <string name="detector_id">Detector_id</string>
+    <string name="title_activity_alarm_acrivity">AlarmAcrivity</string>
+</resources>
